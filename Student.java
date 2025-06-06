@@ -33,7 +33,7 @@ public class Student {
             }
         }
     }
-        public class Main {
+       
     public static void main(String[] args) {
         Course c1 = new Course("Mathematics", 85);
         Course c2 = new Course("Physics", 32);
